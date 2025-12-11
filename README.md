@@ -1,6 +1,6 @@
 # 🤖 AI-Powered Job Ad Generator (RAG)
 
-![Python](https://img.shields.io/badge/Python-3.9-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-App-red) ![FAISS](https://img.shields.io/badge/Vector_DB-FAISS-orange) ![openai/gpt-oss-20b](https://img.shields.io/badge/Model-Llama_3-purple) ![Docker](https://img.shields.io/badge/Deployment-Docker-blue)
+![Python](https://img.shields.io/badge/Python-3.9-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-App-red) ![FAISS](https://img.shields.io/badge/Vector_DB-FAISS-orange) ![openai/gpt-oss-20b](https://img.shields.io/badge/Model-openai/gpt-oss-20b-purple) ![Docker](https://img.shields.io/badge/Deployment-Docker-blue)
 
 A Generative AI application designed for HR professionals and recruiters to instantly draft high-quality, professional job advertisements. By utilizing **RAG (Retrieval-Augmented Generation)**, this tool ensures that generated ads are grounded in real-world data scraped from top job portals like LinkedIn.
 
